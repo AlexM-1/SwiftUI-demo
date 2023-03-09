@@ -8,3 +8,6 @@ Homework on the subject SwiftUI
 * создать поля для ввода email и password
 * добавить кнопку login
 * в нижней части экрана воспроизвести ленту с кнопками и иконками
+
+### Skills:
+- SwiftUI
